@@ -1,4 +1,8 @@
 /* 1. base */
+html {
+    scroll-behavior: smooth;
+}
+
 body {
     background-color: #290a54;
     color: #ffffff;
